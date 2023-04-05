@@ -1,7 +1,7 @@
 # odin-recipes
 
-Hi I'm Juls and I'm learning to code. It's quite interesting for me.
+Hi I'm Juls and I'm learning how to code. It's quite interesting for me.
 
-In this project we will create a a basic recipie website. I hope that my knowleagde of HTML will be enought to make this without problem.
+In this project I will create a a basic recipie website. I hope that my knowleagde of HTML will be enough to make this website without any problems.
 
-wish me luck
+Wish me luck
